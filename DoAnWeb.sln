@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnWeb", "DoAnWeb\DoAnWeb.csproj", "{7C868A3B-1255-4203-AA75-FF9B6FA6E0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C868A3B-1255-4203-AA75-FF9B6FA6E0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C868A3B-1255-4203-AA75-FF9B6FA6E0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C868A3B-1255-4203-AA75-FF9B6FA6E0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C868A3B-1255-4203-AA75-FF9B6FA6E0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84F6DFC9-9ACC-45F7-8646-C36C350BABDE}
+	EndGlobalSection
+EndGlobal
